@@ -1,6 +1,5 @@
 #!/usr/bin/env groovy
 
-## Groovy Scripting for Jenkins Pipeline
 
 pipeline {
 
